@@ -1,2 +1,2 @@
 # PicGo
-生成Token
+图床
